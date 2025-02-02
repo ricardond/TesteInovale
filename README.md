@@ -13,30 +13,32 @@
 ## Como rodar a aplicação
 
 - Quando baixar o projeto em formato zip, descompacte e terá uma pasta chamada “TesteInovale”. Para abrir e testar o projeto é importante que tenha uma IDE como o VS Code. Então clique e abra o projeto com o VS Code.
-![abrirComVSCode](https://github.com/user-attachments/assets/d2c6a89a-0cb5-44a6-a159-05d10c175ff8)
+  
+![abrirComVSCode](https://github.com/user-attachments/assets/15d0c424-e3f7-4994-843e-dc2f46d1814f)
+
 - Com o projeto aberto, use o atalho Ctlr + ‘ (aspas simples)  para abrir o terminal do visual code ou clique nos três pontinhos na barra de ferramentas> Terminal > novo terminal.
   
-![abrindo cmd do vs code](https://github.com/user-attachments/assets/f8bb9dbe-1e22-426e-af8c-cc9791518617)
+![image](https://github.com/user-attachments/assets/1a329ca5-335b-4ecf-bbd6-06a74b589c2c)
 
 - O primeiro comando será para rodar o servidor Json server, como instalei a biblioteca Three js por meio do npm do Node, o comando será: **npm run server**. Clique segurando Ctrl o link http://localhost:3000/settings
   
-![image](https://github.com/user-attachments/assets/3f86cdcc-083d-4a83-93f5-93062491f739)
+![image](https://github.com/user-attachments/assets/c87e76c5-8223-466f-abbf-1abdc8b671e5)
 
 - Quando clicar no link e abrir no navegador, a página irá retornar os valores que estão no banco de dados feito com Json Server.
   
-![image](https://github.com/user-attachments/assets/812f37c1-89c3-48e4-8535-8e6931a240b5)
+![image](https://github.com/user-attachments/assets/09d9f9ab-1965-40a4-85f3-d3adb0482e68)
 
 - O segundo comando será o **npm run dev** para rodar nossa aplicação, se tudo deu certo irá aparecer o nosso localhost onde terá acesso a aplicação, então clique segurando Ctrl ou copie e cole no navegador:
   
-![image](https://github.com/user-attachments/assets/93e4c043-627f-4dfd-941c-a6137f3a9266)
+![image](https://github.com/user-attachments/assets/a6201201-50cb-4e32-b561-033f5f7e61aa)
 
 - Quando abrir o localhost, será direcionado para a aplicação com o objeto e a as ferramentas de configurações como na imagem a seguir:
   
-![image](https://github.com/user-attachments/assets/c6c562cc-ceed-4287-807f-64956c43b052)
+![image](https://github.com/user-attachments/assets/e86e04f4-16df-4321-894b-3bf0da98c3c0)
 
 ## Estrutura do Projeto
 
-![image](https://github.com/user-attachments/assets/189edb7a-19d7-4e9e-9d36-4326da4606e8)
+![image](https://github.com/user-attachments/assets/f5454c21-ecc7-46e4-a71b-aac5070f05dc)
 
 **Diretórios principais:**
 - node_modules/: Pasta gerenciada pelo npm que contém todas as dependências do projeto instaladas a partir do package.json.
