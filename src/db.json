@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "lightIntensity": 1.7,
+    "backgroundColor": "131",
+    "color": "489c9d",
+    "position": {
+      "x": 1,
+      "y": 0.8,
+      "z": 3
+    }
+  }
+}
